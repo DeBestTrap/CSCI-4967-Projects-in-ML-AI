@@ -1,1 +1,1 @@
-# CSCI-4967-Projects-in-ML-AI
+# CSCI-6967-Projects-in-ML-AI
