@@ -1,3 +1,5 @@
 HW/data
 .venv
 .ignore*
+__pycache__
+*.chkpt
